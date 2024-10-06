@@ -7,7 +7,7 @@
 | Enlace para descargarte el archivo. | Link to download the file. |
 
 <p align="center">
-https://github.com/MilagrosHuerta/Frames_T1/releases/download/V1.1/Problemas.FTP.-.PORTICO.T1.xlsm
+https://github.com/MilagrosHuerta/Frames_T1/releases/download/V1.2/Problemas.FTP.-.PORTICO.T1.xlsm
 </p>
 
 
