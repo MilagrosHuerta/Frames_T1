@@ -6,10 +6,8 @@
 | Las distancias, los apoyos y las cargas varían aleatoriamente en cualquiera de los puntos/barras de la estructura. | Distances, supports and loads vary randomly at any of the points/bars of the structure. |
 | Enlace para descargarte el archivo. | Link to download the file. |
 
-<p align="center">
-https://github.com/MilagrosHuerta/Frames_T1/releases/download/V1.2/Problemas.FTP.-.PORTICO.T1.xlsm
-</p>
-
+https://github.com/MilagrosHuerta/Frames_T1/releases/download/V1.3/Problemas.FTP.-.PORTICO.T1.xlsm
+[![Imagen miniatura del vídeo](https://i.ytimg.com/vi/DohRhugN6H8/hqdefault.jpg)](https://www.youtube.com/watch?v=DohRhugN6H8)
 
 | Porticos | Frames |
 | --- | --- |
