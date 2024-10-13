@@ -9,6 +9,9 @@
 https://github.com/MilagrosHuerta/Frames_T1/releases/download/V1.3/Problemas.FTP.-.PORTICO.T1.xlsm
 [![Imagen miniatura del vídeo](https://i.ytimg.com/vi/DohRhugN6H8/hqdefault.jpg)](https://www.youtube.com/watch?v=DohRhugN6H8)
 
+FastTest PlugIn Dowload: https://moodle.org/plugins/view.php?id=2831
+https://moodle.org/plugins/download.php/30812/FastTest_PlugIn_moodle43_2024010582.zip
+
 | Porticos | Frames |
 | --- | --- |
 |  <image src="https://i.ibb.co/LJPXSS9/Viga-Horizontal-Empotrado-Libre.png ">|  <image src="https://i.ibb.co/nzLrYdB/Viga-Horizontal-Fijo-Movil.png "> |
